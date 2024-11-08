@@ -1,3 +1,4 @@
 hello i am Jarvis AI
 importing preferences from Herm Interface
 checking the system preferences
+system is now fully operational
